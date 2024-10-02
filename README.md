@@ -20,3 +20,7 @@ Use the Arduino IDE:
 
 # Screenshot
 ![plot](./pocketPool.jpg)
+
+# Demo video
+https://github.com/user-attachments/assets/f282c2e0-5819-47fb-b786-15b43f758ca7
+
