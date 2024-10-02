@@ -17,3 +17,6 @@ Use the Arduino IDE:
 2. Connect M5StickCPlus
 3. Upload
 4. Play!!
+
+# Screenshot
+![plot](./pocketPool.jpg)
